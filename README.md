@@ -1,8 +1,11 @@
 # Hi! I’m Wiryawan Adipa.
 
-I’m a front-end web developer and UI/UX designer who also love building WordPress theme.
+I’m a front-end web developer and UI/UX designer
 
-## :hammer_and_wrench: My skills are:
+:earth_asia: https://wiryawanadipa.com
+
+
+# :hammer_and_wrench: My skills are:
 - **HTML5**
 - **CSS3 (SCSS & SASS)**
 - **JavaScript**
@@ -10,7 +13,7 @@ I’m a front-end web developer and UI/UX designer who also love building WordPr
 - **jQuery**
 - **WordPress Theme Development**
 
- ## :desktop_computer: Hardware:
+ # :desktop_computer: Hardware:
 - **CPU**: Intel i9-9900k
 - **RAM**: 32GB (4x8GB 3600 Mhz CL15)
 - **GPU**: RTX 2070 Super
@@ -18,7 +21,7 @@ I’m a front-end web developer and UI/UX designer who also love building WordPr
 - **HDD**: 12TB SATA HDD (4TB and 8TB)
 - **Monitor**: Asus ROG Swift PG279Q (2560×1440) and Lenovo ThinkVision E24-20 (1080×1920)
 
-## :toolbox: Software:
+# :toolbox: Software:
 - **Windows 10 22H2 Pro** (Main OS)
 - **Google Chrome 107**
 - **Mozilla Firefox 106**
