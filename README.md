@@ -1,9 +1,8 @@
 # Hi! I’m Wiryawan Adipa.
 
-I’m a front-end web developer and UI/UX designer
+I’m a front-end web developer and UI/UX designer who also love building WordPress theme.
 
-:earth_asia: https://wiryawanadipa.com
-
+How to reach me: https://wiryawanadipa.com/contact/
 
 # :hammer_and_wrench: My skills are:
 - **HTML5**
