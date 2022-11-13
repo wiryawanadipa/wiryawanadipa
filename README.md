@@ -10,7 +10,7 @@ I’m a front-end web developer and UI/UX designer who also love building WordPr
 - **jQuery**
 - **WordPress Theme Development**
 
- ## Hardware:
+ ## :desktop_computer: Hardware:
 - **CPU**: Intel i9-9900k
 - **RAM**: 32GB (4x8GB 3600 Mhz CL15)
 - **GPU**: RTX 2070 Super
