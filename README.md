@@ -2,7 +2,7 @@
 
 I’m a front-end web developer and UI/UX designer who also love building WordPress theme.
 
-## My skills are:
+## :hammer_and_wrench: My skills are:
 - **HTML5**
 - **CSS3 (SCSS & SASS)**
 - **JavaScript**
@@ -18,7 +18,7 @@ I’m a front-end web developer and UI/UX designer who also love building WordPr
 - **HDD**: 12TB SATA HDD (4TB and 8TB)
 - **Monitor**: Asus ROG Swift PG279Q (2560×1440) and Lenovo ThinkVision E24-20 (1080×1920)
 
-## Software:
+## :toolbox: Software:
 - **Windows 10 22H2 Pro** (Main OS)
 - **Google Chrome 107**
 - **Mozilla Firefox 106**
