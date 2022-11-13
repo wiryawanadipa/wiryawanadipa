@@ -10,6 +10,7 @@ My skills are:
 - JavaScript
 - Bootstrap
 - jQuery
+- WordPress Theme Development
 
 Hardware:
 - CPU: Intel i9-9900k
