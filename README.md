@@ -31,8 +31,6 @@ How to reach me: https://wiryawanadipa.com/contact/
 - **Inkscape** (Main graphic design tool)
 - **OBS** (Main screen recording software)
 - **Shotcut** (Main video editor)
-- **TeamViewer**
-- **Zoom**
 - **WinSCP** (FTP)
 
 <!--
