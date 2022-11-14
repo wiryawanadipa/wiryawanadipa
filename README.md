@@ -22,9 +22,6 @@ How to reach me: https://wiryawanadipa.com/contact/
 
 # :toolbox: Software:
 - **Windows 10 Pro 22H2** (Main OS)
-- **Google Chrome 107**
-- **Mozilla Firefox 106**
-- **Microsoft Edge 107**
 - **Visual Studio Code** (Main Code Editor)
 - **Notepad++** (For light note editing)
 - **Laragon 6** (PHP 7.4.33 & 8.1.12, MariaDB 10.9.3, and NodeJS 19.0.1)
