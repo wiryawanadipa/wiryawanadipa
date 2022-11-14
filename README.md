@@ -21,7 +21,7 @@ How to reach me: https://wiryawanadipa.com/contact/
 - **Monitor**: Asus ROG Swift PG279Q (2560×1440) and Lenovo ThinkVision E24-20 (1080×1920)
 
 # :toolbox: Software:
-- **Windows 10 22H2 Pro** (Main OS)
+- **Windows 10 Pro 22H2** (Main OS)
 - **Google Chrome 107**
 - **Mozilla Firefox 106**
 - **Microsoft Edge 107**
