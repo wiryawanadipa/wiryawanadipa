@@ -5,8 +5,8 @@ I’m a front-end web developer and UI/UX designer who also love building WordPr
 How to reach me: https://wiryawanadipa.com/contact/
 
 # :hammer_and_wrench: My skills are:
-- **HTML5**
-- **CSS3 (SCSS & SASS)**
+- **HTML**
+- **CSS (SCSS & SASS)**
 - **JavaScript**
 - **Bootstrap**
 - **jQuery**
@@ -18,13 +18,13 @@ How to reach me: https://wiryawanadipa.com/contact/
 - **GPU**: RTX 2070 Super
 - **SSD**: 1TB SATA SSD (2x512GB)
 - **HDD**: 12TB SATA HDD (4TB and 8TB)
-- **Monitor**: Asus ROG Swift PG279Q (2560×1440) and Lenovo ThinkVision E24-20 (1080×1920)
+- **Monitor**: Asus ROG Swift PG279Q (2560×1440) and Lenovo ThinkVision E24-20 (1080×1920 – portrait mode)
 
 # :toolbox: Software:
-- **Windows 10 Pro 22H2** (Main OS)
+- **Windows 10 Pro** (Main OS)
 - **Visual Studio Code** (Main Code Editor)
 - **Notepad++** (For light note editing)
-- **Laragon 6** (PHP 7.4.33 & 8.1.12, MariaDB 10.9.3, and NodeJS 19.0.1)
+- **Laragon** (PHP, MariaDB, and NodeJS)
 - **Figma** (Main UI/UX design tool)
 - **GIMP** (Main images manipulation software)
 - **Paint.net** (For light image editing)
