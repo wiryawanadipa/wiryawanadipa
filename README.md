@@ -4,7 +4,7 @@ I’m a front-end web developer and UI/UX designer who also love building WordPr
 
 How to reach me: https://wiryawanadipa.com/contact/
 
-# :hammer_and_wrench: My skills are:
+# :hammer_and_wrench: My expertise:
 - **HTML**
 - **CSS (SCSS & SASS)**
 - **JavaScript**
