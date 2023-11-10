@@ -18,7 +18,7 @@ How to reach me: https://wiryawanadipa.com/contact/
 - **GPU**: RTX 2070 Super
 - **SSD**: 1TB SATA SSD (2x512GB)
 - **HDD**: 12TB SATA HDD (4TB and 8TB)
-- **Monitor**: Asus ROG Swift PG279Q (2560×1440) and Lenovo ThinkVision E24-20 (1080×1920 – portrait mode)
+- **Monitor**: 2560×1440 (144hz) & 1080×1920 (60hz)
 
 # :toolbox: Software:
 - **Windows 11 Pro** (Main OS)
