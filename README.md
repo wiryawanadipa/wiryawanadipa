@@ -21,8 +21,9 @@ How to reach me: https://wiryawanadipa.com/contact/
 - **Monitor**: Asus ROG Swift PG279Q (2560×1440) and Lenovo ThinkVision E24-20 (1080×1920 – portrait mode)
 
 # :toolbox: Software:
-- **Windows 10 Pro** (Main OS)
+- **Windows 11 Pro** (Main OS)
 - **Visual Studio Code** (Main Code Editor)
+- **Visual Studio 2022** (C++)
 - **Notepad++** (For light note editing)
 - **Laragon** (PHP, MariaDB, and NodeJS)
 - **Figma** (Main UI/UX design tool)
