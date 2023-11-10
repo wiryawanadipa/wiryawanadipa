@@ -21,18 +21,14 @@ How to reach me: https://wiryawanadipa.com/contact/
 - **Monitor**: 2560×1440 (144hz) & 1080×1920 (60hz)
 
 # :toolbox: Software:
-- **Windows 11 Pro** (Main OS)
-- **Visual Studio Code** (Main Code Editor)
-- **Visual Studio 2022** (C++)
-- **Notepad++** (For light note editing)
-- **Laragon** (PHP, MariaDB, and NodeJS)
-- **Figma** (Main UI/UX design tool)
-- **GIMP** (Main images manipulation software)
-- **Paint.net** (For light image editing)
-- **Inkscape** (Main graphic design tool)
-- **OBS** (Main screen recording software)
-- **Shotcut** (Main video editor)
-- **WinSCP** (FTP)
+- **Windows 11 Pro**
+- **Visual Studio Code**
+- **Visual Studio 2022**
+- **Laragon**
+- **Figma**
+- **GIMP**
+- **Paint.net**
+- **Inkscape**
 
 <!--
 **wiryawanadipa/wiryawanadipa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
